@@ -1,0 +1,21 @@
+[general]
+name=IPA - InSAR Product Analysis
+qgisMinimumVersion=3.34
+description=This plugin analyses InSAR products.
+version=1.0.0
+author=Fabio Piccolino & Fabio Bovenga (CNR-IREA)
+email=support-ipa@irea.cnr.it
+
+about=IPA (InSAR Product Analysis) is a tool designed to process, analyse, and visualise InSAR displacement data and products directly within QGIS.
+
+tracker=https://github.com/PluginIPA/IPA/issues
+repository=https://github.com/PluginIPA/IPA
+homepage=https://github.com/PluginIPA/IPA
+
+hasProcessingProvider=no
+tags=insar, sar, remote sensing, raster, deformation
+category=Raster
+icon=icon.png
+experimental=True
+deprecated=False
+server=False
