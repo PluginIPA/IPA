@@ -68,8 +68,8 @@ The plugin is structured into three main operational modules:
 
 ## Authors & Maintainers
 
-- **Fabio Bovenga** – *Conceptualization, methodology, mathematical formulations, testing* (CNR-IREA).
-- **Fabio Piccolino** – *Software development, Python/PyQGIS implementation, maintenance* (Politecnico di Bari).
+- **Fabio Bovenga** – *Conceptualization, methodology, mathematical formulations, testing, maintenance* (National Research Council of Italy - IREA Institute).
+- **Fabio Piccolino** – *Software development, Python/PyQGIS implementation, testing, maintenance* (Polytechnic University of Bari).
 
 ---
 
