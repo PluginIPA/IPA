@@ -27,6 +27,9 @@ The plugin is structured into three main operational modules:
 - **Temporal Trend Analysis**: Automated nonlinear kinematic model selection (linear, quadratic acceleration, cubic, quartic, unclassified) driven by Fuzzy Entropy ($FE_1$–$FE_5$), Fisher statistics ($F, FA$), $R^2$, and Akaike Information Criterion ($AIC$).
 - **Interactive Time-Series Visualization**: Canvas map-tool allowing on-the-fly chart inspection of measured time series and fitted polynomial curves directly by clicking on map targets.
 
+### User Manual
+For more details on IPA Modules and Functionalities refer to the User Manual: help/User-Manual-IPA_v1.0.0.pdf
+
 ---
 
 ## Technical Architecture & Usability
